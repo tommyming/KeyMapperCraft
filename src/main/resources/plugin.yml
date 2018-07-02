@@ -1,0 +1,5 @@
+name: KeyMapperCraft
+version: ${project.version}
+main: org.tommyming.KeyMapperCraft
+authors: [tommyhonym]
+description: This Plugin allows users to bind commands to speciifc hotkeys, useful for any servers who does not like to type commands 
